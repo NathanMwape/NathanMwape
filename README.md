@@ -14,6 +14,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
   <a href="https://telegram.me/SANJITH_KUMAR">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
   <p align="center">
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=nathan%20mwape&theme=garden&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=NathanMwape&theme=garden&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
   <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" />
+ 
 </p>
