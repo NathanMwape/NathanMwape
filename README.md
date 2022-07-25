@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&color=0969da&size=53&width=550&height=76&lines=Hello+%F0%9F%91%8B%2C+I%27m+nathan+mwape" alt="nathanmwape" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&color=0969da&size=53&width=650&height=76&lines=Hello+%F0%9F%91%8B%2C+I%27m+nathan+mwape" alt="nathanmwape" />
 </p>
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I’m nathan. I’m a Software Engineer, Mobile Developer, and Student living in Democratic Republic of the Congo. I am a fan of technology, music, and movies. I’m also interested in sports and travel. 
