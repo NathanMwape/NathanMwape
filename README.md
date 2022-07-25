@@ -15,6 +15,5 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
   <p align="center">
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=NathanMwape&theme=garden&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
-  <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" />
  
 </p>
