@@ -14,6 +14,16 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
   <a href="https://telegram.me/SANJITH_KUMAR">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
   <p align="center">
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=nathan%20mwape&theme=garden&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
-  <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" />
+  
+  <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C programming" width="40" height="40"/> </a>  
+ <a href="https://www.geeksforgeeks.org/html/?ref=shm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+ <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
+ <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
+ <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/45575898/132374566-e8aca758-460c-48d8-944c-dcf4a7590bd1.png" alt="vscode" width="40" height="40" /> </a>  
+ 
+<!-- Programming and tools icons ends here -->
+</p>
 </p>
