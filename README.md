@@ -23,6 +23,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
  <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/45575898/132374566-e8aca758-460c-48d8-944c-dcf4a7590bd1.png" alt="vscode" width="40" height="40" /> </a>  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 <!-- Programming and tools icons ends here -->
 </p>
