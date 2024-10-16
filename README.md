@@ -38,8 +38,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
    <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg?hl=fr" alt="Jetpack Compose" width="40" height="40"/>
  </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
+ <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+   <img src="https://e7.pngegg.com/pngimages/142/541/png-clipart-symfony-php-computer-software-bootstrap-software-framework-others-text-logo-thumbnail.png" alt="Laravel" width="40" height="40"/>
  </a>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
