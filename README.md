@@ -36,7 +36,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
  </a>
  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-   <img src="https://miro.medium.com/v2/resize:fit:1400/1*eEvF-1Ov91ZcMudIxJYIlw.png" alt="Jetpack Compose" width="40" height="40"/>
+   <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg?hl=fr" alt="Jetpack Compose" width="40" height="40"/>
  </a>
  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
