@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&color=0969da&size=53&width=450&height=76&lines=Hello+%F0%9F%91%8B%2C+I%27m+nathan+mwape" alt="nathanmwape" />
 </p>
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I’m Nathan. I’m a Software Engineer, Mobile Developer, and Student living in Democratic Republic of the Congo. I am a fan of technology, music, and gaming. I’m also interested in robot technology and travel.
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Nathan, a talented software engineer and mobile developer based in the Democratic Republic of the Congo. With a passion for technology, I excel in both web and mobile development. Outside of coding, I enjoy music and gaming, which fuel my creativity. I'm also keenly interested in robotics and love to travel, exploring new cultures and innovations.
 
 <a href="#">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="#">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
